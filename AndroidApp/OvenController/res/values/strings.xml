@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oven Controller</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="soak_temp">Soak Temp</string>
+    <string name="soak_time">Soak Time</string>
+    <string name="reflow_temp">Reflow Temp</string>
+    <string name="reflow_time">Reflow Time</string>
+    <string name="submit">Submit</string>
+    <string name="ipaddress">Enter Server\'s IP Address:</string>
+    <string name="degree_celsius">
+        <item >"\u00B0"</item>
+    	<item >"\u0043"</item>
+    </string>
+    
+
+</resources>

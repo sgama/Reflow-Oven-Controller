@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="at.bestsolution.efxclipse.tooling.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="lib" path="SerialComm.jar"/>
+	<classpathentry kind="lib" path="servlet-api.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/cdi-16.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/javaee-16.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/javamail-141.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-annotations-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-client-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-continuation-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-deploy-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-http-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-io-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-jaas-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-jaspi-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-jmx-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-jndi-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-plus-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-proxy-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-rewrite-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-schemas-3.1.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-security-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-server-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-servlet-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-servlets-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-util-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-webapp-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/jetty-xml-9.1.1.v20140108.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/resin.jar"/>
+	<classpathentry kind="lib" path="jetty-distribution-9.1.1.v20140108/lib/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="sqlite-jdbc-3.7.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

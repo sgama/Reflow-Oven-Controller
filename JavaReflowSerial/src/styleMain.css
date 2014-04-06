@@ -1,0 +1,83 @@
+#chartcontrols {
+	-fx-padding:20px;
+}
+
+#chart_control_label {
+	-fx-font-weight:bold;
+	-fx-padding: 0px 20px 0px 0px;
+}
+
+#header {
+	-fx-background-color:rgb(34,34,34);
+}
+
+#header .label{
+	-fx-text-fill: #DDD;
+}
+
+#header .button{
+	 -fx-background-color: 
+        #000000,
+        linear-gradient(#333333, #222222),
+        linear-gradient(#343434, #282828),
+        linear-gradient(#333333, #222222);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 12 30 12 30;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+
+#header #start_btn {
+		 -fx-background-color: 
+        #000000,
+        linear-gradient(#51A762, #4A8053),
+        linear-gradient(#14B234, #0B9622),
+        linear-gradient(#17B234, #0B8622);
+}
+
+#header #stop_btn {
+		 -fx-background-color: 
+        #000000,
+        linear-gradient(#A65151, #7B3838),
+        linear-gradient(#B31414, #970A0A),
+        linear-gradient(#C01313, #880B0B);
+}
+
+.chart-series-line {
+	-fx-stroke-width: 4px;
+	-fx-effect: null;
+}
+
+#IP_display {
+	-fx-padding: 10 10 10 20;
+}
+
+#settings {
+	-fx-background-color: rgb(34,34,34);
+}
+
+#settings .label {
+	-fx-text-fill: #DDD;
+}
+
+#settings .button{
+	 -fx-background-color: 
+        #000000,
+        linear-gradient(#333333, #222222),
+        linear-gradient(#343434, #282828),
+        linear-gradient(#333333, #222222);
+    -fx-background-insets: 0,1,2,3;
+    -fx-background-radius: 3,2,2,2;
+    -fx-padding: 4 15 4 15;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+}
+
+#settings .text-field {
+	-fx-focus-color: transparent;
+}
+
+#settings #data_controls {
+	-fx-padding: 20 10 10 20;
+}
